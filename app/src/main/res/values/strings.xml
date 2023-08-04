@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolyDiana</string>
+    <string name="tab_text_1">国内数据</string>
+    <string name="tab_text_2">国外数据</string>
+    <string name="tab_text_3">实时新闻</string>
+    <string name="string_banner">banner</string>
+</resources>
